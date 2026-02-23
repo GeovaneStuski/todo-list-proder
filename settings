@@ -1,0 +1,29 @@
+{
+    "terminal.explorerKind": "external",
+    "workbench.iconTheme": "charmed-light",
+    "workbench.colorTheme": "Dracula Theme",
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "dart.flutterHotReloadOnSave": "all",
+    "eslint.format.enable": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "always"
+    },
+    "[dart]": {
+        "editor.defaultFormatter": "Dart-Code.dart-code",
+        "editor.formatOnSave": true
+    },
+    "dart.lineLength": 80,
+    "dart.runPubGetOnPubspecChanges": "always",
+    "dart-data-class-generator.constructor.default_values": true,
+    "dart-data-class-generator.constructor.required": true,
+    "dart-data-class-generator.fromMap.default_values": true,
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "dart.debugExternalPackageLibraries": true,
+    "dart.debugSdkLibraries": false
+}
